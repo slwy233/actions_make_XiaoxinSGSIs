@@ -2,7 +2,7 @@
   "rom_url": "https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1936_A_9.16.3-update-full_1634720464.zip",
   "rom_name": "PD1936_A_9.16.3-update-full_1634720464.zip",
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": true,
+  "make_miui": false,
   "make_flyme": false,
   "make_coloros": false,
   "make_h2os": false,
